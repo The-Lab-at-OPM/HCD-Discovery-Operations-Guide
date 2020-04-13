@@ -1,1 +1,1 @@
-Sitemap: /HCD-Discovery-Concept-Guide/sitemap.xml
+Sitemap: /HCD-Discovery-Operations-Guide/sitemap.xml
