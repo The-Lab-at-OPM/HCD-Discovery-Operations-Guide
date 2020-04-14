@@ -10,7 +10,7 @@ subnav:
 - text: Determine Project Scale
   href: '/determine-project-scale/'
 - text: High-level Timeline
-  href: '/high-level-timeline/'
+  href: '/timeline-1/'
 
 ---
 

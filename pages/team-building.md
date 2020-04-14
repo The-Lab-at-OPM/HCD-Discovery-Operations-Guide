@@ -221,6 +221,8 @@ parties prior to site visit.
 - Supports the communication of Findings and Deliverables to Leadership and Stakeholders.
 - Present findings when asked by Project Lead or when is appropriate.
 
+***
+
 ## Framework for Team Building
 
 Use this framework as a model for creating your team’s role assignment lists. This is the basic information that needs to be recorded for each team  member who signs on to your project.
