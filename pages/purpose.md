@@ -2,18 +2,20 @@
 permalink: /purpose/
 layout: styleguide
 title: Purpose of this Guide
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 ---
 
-This Human-Centered Design Discovery Stage Field Guide is a teaching tool and a reference guide. It was originally created for Veterans Experience Office (VEO) by Insight & Design, a team within VEO that has expertise in Human-Centered Design (HCD). This guide was later adapted for use across other agencies through a partnership between GSA’s Office of Customer Experience and The Lab at OPM.
 
-HCD is a qualitative research method that helps groups solve problems and seek solutions in a way that prioritizes customer needs over a system’s needs.
 
-HCD involves four key phases of work. This guide solely focuses on the first phase, called the Discovery phase, or simply discovery.
+This <b>Human-Centered Design (HCD) Discovery Stage Operations Guide</b> is a companion to the Human-Centered Design Discovery Stage Field Guide. The latter provides the Why of the HCD project and illustrative case studies, while the former, this Operations Guide (Ops Guide), acts as the workbook and archive of an HCD Discovery project.
 
-Discovery provides an opportunity to carry out an ongoing and high-priority assignment by using the teams best equipped to conduct on-the-ground qualitative research.
+The Ops Guides' format allows project managers, project leads, researchers, team members, and leadership to contribute to institutional knowledge through building an accurate and detailed record of a project’s process. As Discovery provides a format for agencies and departments to continuously pursue a better, more nuanced understanding of people's experiences, it is crucial that we systematize and archive the knowledge so that these institutions can build upon it in the future.
 
-This guide offers step-by-step guidance on how to conduct HCD discovery and then synthesize the research findings, towards the goal of helping your agencies identify opportunities to improve service. The qualitative data can also help provide a more nuanced perspective of the quantitative data that is collected and interpreted.
+By listening to those we serve, HCD as a project cycle allows agencies and departments to create new and evaluate current programs. This moves the organizations towards the goal of improving service, both in terms of understanding how people would like to receive services from their government as well as providing a nuanced perspective of any quantitative data that has been collected and requires interpretation.
 
-In a broader sense, this guide also enhances the understanding and practice of HCD throughout the Federal Government. Use the tools and techniques within this guide to build a better understanding the problems your agency is facing, whether through mastering the process individually or identifying the right internal or external partners who can help deliver your agency’s mission.
+## How this Guide Gives Direction
+
+Throughout this Operations Guide, the authors have elected to speak to a generalized “you”. However, the use of “you” should not be interpreted as a directive to one person. “You” in English can mean a single person, but it can also mean a group of people or a team. It is to teams that we are speaking throughout this Guide.
+
+A team-based approach is central to the Human-Centered Design process.  By crowd-sourcing our knowledge and understanding through teams, we get to best answers for problem identification, directed research, open-minded review, and open-minded conclusion-making. Therefore, please read “you” as “you all, the team”, throughout the Guide. We used the simple “you” form as a convenience to avoid wordiness.

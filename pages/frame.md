@@ -1,56 +1,42 @@
 ---
 permalink: /frame/
 layout: styleguide
-title: Brief & Frame
-category: Discovery Concept Guide
+title: Framing
+category: Discovery Operations Guide
 lead:
+subnav:
+- text: Desk Research
+  href: '/desk-research/'
+- text: Frame Reframe
+  href: '/frame-reframe/'
 
 
 ---
 
-![HCD Discovery Cycle illustration with everything except the Before bubble grayed out. Inside the bubble labeled "Before", four squares are labeled "1. Brief", "2. Frame", "3. Recruit", and "4. Plan".]({{ site.baseurl }}/assets/img/New-Diagrams-before-02.svg)
+![HCD Discovery Operations and Concept illustrations shown side by side to help locate the current phase of the Discovery process. The first bubble of the HCD Discovery Concept diagram is filled in, with the other two bubbles grayed out. The Project, Team Building, Leadership Buy-In, and Planning 1 sections of the Operations diagram are filled in, with the rest of the diagram grayed out.]({{ site.baseurl }}/img/ops-frame-01.svg)
 
-## Brief
+## Getting Started
 
-Preparing for a successful discovery research effort takes time and step by step planning. You’ll want to have a few key things lined up before you begin. Doing so helps pave the way for a smooth start. Sometimes the team will get your assignement through a brief from a supervisor or other group. Other times, you or others will frame your own brief from the start.
+Our frame of reference largely defines our ideas of what is possible. For this reason, creating new solutions and contributing value to systems and organizations is often a function of reframing our perception of a problem or situation. When we think narrowly, in reference to the well-established, or only in terms of functional outcomes that could address a problem, we limit our ability to generate forward-thinking solutions. Framing and reframing helps us see more options.
 
-## Frame Your Inquiry
+Framing isn’t something that design made up; it’s a critical sensibility that you can apply across you life. For example, puns are reframes of a word or phrase: the author takes the primary or expected meaning of a word and changes the context to create a comedic effect. As in, "Thanks for explaining the word "many" to me, it means a lot." More seriously, in recent years the healthcare industry has reframed medical treatment to include prevention as well as intervention. Medical providers used to define care narrowly as a reaction to a specific event, such as a resetting a broken arm in an elderly patient. Now, they define healthcare as including the prevention of osteoporosis so the arm won't break in the first place.
 
-As the VA Center for Innovation, one of the pioneering human-centered design groups in the federal space, put it
+This section will help you step through constructing a frame that is wide enough to create new solutions, but narrow enough to be realistic about constraints such as skills, personnel, time, and budget. As a rule of thumb, err towards a narrow frame in which you could produce thorough work over a larger frame that you might struggle to produce or implement.
 
-<mark><i>"Tighter framing directly correlates with a more meaningful, targeted solution.”</i></mark>
+## Checklist
 
-Take time to frame a guiding question that will become the foundation of your research. When the FDA sought to align their testing standard for facemasks with testing standards for the same product managed by another federal agency, the problem was initially framed as a technical negotiation between scientists. However, during a co-design session it became clear that comfort was a critical factor that was missing from both testing standards and needed to be included in the problem frame. This recognition of what was missing led a family of problem frames that would take the effort in new directions.
+Use this checklist as you move throught this section to esure you're set up for success in the Framing phase.
 
-* How might we reduce redundancy between agencies that regulate the same product?
-* How might we incorporate comfort into the testing process for manufacturers?
-* How might we understand the broader experience of using facemasks?
+- Read the <a href= "https://the-lab-at-opm.github.io/HCD-Discovery-Concept-Guide/frame/">Brief & Frame</a> section of the HCD Discovery Stage Concept Guide
 
-Select a question that is broad enough to encompass the full shape of the issue you want to research but defined enough to keep your research focused and on-track.
+- Identify your Leadership and Project Leads.
 
-### Why use the "How might we" phrase?
+- Speak in detail with leadership to understand their project brief or the problem they would like to research.
 
-In the design research process, a “How Might We” (HMW) question serves two purposes:
+- Produce a Problem Frame Statement based on detailed conversations with leadership and / or stakeholders.
 
-1. It is the frame of inquiry of the research
-1. The phrase "how might we" can inspire the team through good framing.
+- Receive acknowledgment and confirmation of that your Problem Frame Statement from leadership and / or stakeholders.
 
-The words have meaning. Might is open, something to play with. Compare this to the word  ‘should’ which puts undue pressure and narrowing on the research from the start, while "we" centers the work on the team.
+-  Investigate prior research in this area through traditional journals and publications both online and in VA archives.
 
-
-## Get Organized as a Team
-
-Assign roles and responsibilities of team members. Key roles for HCD discovery include:
-
-* Project Managers recruit, schedule interviews, confirm interviews, gather/store consent forms, gather/store raw and synthesized data, communicate with stakeholders.
-* Design Researchers select research strategies for gathering qualitative data, conduct interviews, lead synthesis, and facilitate efforts to identify the most relevant design opportunities.
-* Research Assistants takes photographs and gathers audio recordings of the interviews.
-
-
-## Select Your Research Strategy
-
-Discuss and select your methods for gathering qualitative data. The key method that discovery research requires is in-depth interviewing. Ideally, you are interviewing participants for an hour or more (if time allows) in their homes, workplaces, or other sites where they feel comfortable (such as in a coffee shop). Consider using additional research strategies to supplement in-depth interviews, such as spending time observing people in their world.
-
-## Secure Allies
-
-Enlist supporters after your team has selected a guiding question. Align with your allies before you recruit participants. Secure allies by reaching out to people in your network (in and out of your agency) who could have an interest in this research. By making others aware of the work ahead, your team helps build consensus and goodwill around the project. This goodwill is key to moving the project forwards in a smooth and successful manner.
+- Determine the project scale / scope.
