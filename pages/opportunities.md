@@ -2,37 +2,35 @@
 permalink: /opportunities/
 layout: styleguide
 title: Finding Opportunities
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
+subnav:
+- text: Opportunities Methods
+  href: '/opportunities-methods/'
 
 ---
 
+## Opportunities
+### aka, diverging your insights
 
+![Diagrammatic illustration of finding opportunities. In-image caption reads: Look at your insights through the lens of your organization: what it does, what its assets are; what its goals are.">]({{ site.baseurl }}/img/visualization-opportunities-01.svg)
 
+Finding Opportunities means identifing fields of potential improvement based on your insights. You derive opportunities by expanding or diverging your insights out through the lens of your department, team, or business line.
 
-## Identifying Opportunities
+Each field of opportunity will probably contain multiple solutions or possible products. Resist the urge to jump from a single insight to a single solution; if you do that instead of identifying fields of opportunity, you'll be cutting yourself off from looking at a variety of solutions, which means you might miss the best or most appropriate one(s).
 
-“Opportunity” is the term we use in HCD to refer to areas of need in our service offerings.
+Some Insights will not have Opportunities for your team. You will know that you have this type of insight on  your heands if the insight you're examining would require your team to have expertise, influence, or time that is not possible given your situation. Note, however, that your team might be able to create action based on some of these insights through notifying other teams or departments of your findings. You and your Leadership can work to make those collaborations happen in the future if you choose to.
 
-You find opportunities by viewing your insights through the lens of your organization's business offerings or capabilities. Literally, opportunities are the fields in which your organization can innovate and offer new or revised products, services, and systems.
+***
 
-![Diagrammatic illustration of finding insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief.]({{ site.baseurl }}/assets/img/concave-03.svg)
+## checklist
 
+Use this checklist to guide you through finding opportunities
 
-## Why Find Opportunities?
+- Take no longer than a one hour break between the Insights the end of the Insights discovery phase and the start of the Opportunities discovery phase.
 
-We work to identify opportunities because they reveal real needs that we heard expressed by participants during the research phase.
+- Write all the Insights discovered in the first three phases of the Synthesis process on computer paper using Sharpie markers. Use a new sheet of paper for each Insight.
 
-Let’s be clear. <b>Opportunities are not solutions.</b> Opportunities pave the way towards solutions. Opportunities identify an area within a service system that needs to be addressed and made better. Opportunities identify the exact problem we’re trying to solve.
+- Tape up the Insights across the wall or windows in a row.
 
-Once an opportunity is identified, we can either extend the team’s support to address that opportunity or we can share recommendations for addressing the matter with our internal and external partners. By identifying and pursuing opportunities, your agency can apply energy and resources to those areas with the highest need and/or to those areas that could have the maximum positive impact on the lives of your customers.
-
-## What Do Opportunities Look Like?
-
-Opportunities can surface at many points in surface and in a vareity of modalities for your organization. A few places opportunities might surface include:
-
-* <b>Touchpoints:</b> This is where the research team maps specific points wherein the customer or employee interacts with the agency.
-* <b>Root Issues:</b> This is where the research team identifies the root cause of complicated challenges, even if the root cause is multifaceted and complex.
-* <b>Important Moments:</b> This is where the research team identifies those moments that matter most to customers as they interact with the agency.
-* <b>Best Practices:</b> This is where the research team identifies where in the agency people are doing it right, towards the goal of spreading these best practices more broadly.
-* <b>Pain Points:</b> This is where the research team identifies where the customer or employee experiences a problem in the system.
+- There is no time limit here, but the Project Lead needs to pay careful attention to the energy in the room. Everyone, including the Lead, will be tired. Push everyone to keep up the work until it is thoroughly done.

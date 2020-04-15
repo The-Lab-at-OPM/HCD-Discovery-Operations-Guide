@@ -2,7 +2,7 @@
 permalink: /synthesis/
 layout: styleguide
 title: Synthesis
-category: Discovery Concept Guide
+category: Discovery Operations Guide
 lead:
 subnav:
 - text: Finding Insights
@@ -11,9 +11,11 @@ subnav:
   href: '/opportunities/'
 ---
 
-![HCD Discovery Cycle illustration with everything except the After bubble grayed out. Inside the "After" bubble, there are three squares, labeled Insights, Opportunities, and Present. Each square has an icon associated with it. The Insights square has lines converging after passing through a convex lens to represent the convergence of research into Insights. The Opportunities square has lines diverging after passing through a concave lens to represent the divergence of Insights into Opportunity spaces for design. The Present squre has an icon of a piece of paper with writing on it.]({{ site.baseurl }}/assets/img/New-Diagrams-during-04.svg)
+![HCD Discovery Operations Cycle illustration with every step except Synthesis and Communicate grayed out.]({{ site.baseurl }}/img/Discovery-Ops-illo-synthesis-01.svg)
 
 ## Introduction
+
+NOTE: This introduction page appears in the <a href="https://the-lab-at-opm.github.io/HCD-Design-Concept-Guide/synthesis/">HCD Discovery Concept Guide</a> as well.
 
 Synthesis is when the team of researchers comes together, brings to the table all of the interviews and qualitative research they’ve gathered, and looks for patterns and themes across the research.
 In some situations, you will be doing synthesis in your research pairs, while in other situations, you will bring your synthesized research to a larger group for further, cross-group synthesis.

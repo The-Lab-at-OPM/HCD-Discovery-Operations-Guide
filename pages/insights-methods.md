@@ -1,38 +1,11 @@
 ---
-permalink: /insights/
+permalink: /insights-methods/
 layout: styleguide
-title: Finding Insights
+title: Insights Methods
 category: Discovery Operations Guide
 lead:
-subnav:
-- text: Insights Methods
-  href: '/insights-methods/'
 
 ---
-
-
-## Insights
-### aka, Converging the data in your research
-
-![Diagrammatic illustration of insights. The team finds insights when they pass the raw research they gathered through the lens of their problem frame or brief. In-image caption reads: Insights are the portions of your participants' perceptions and impressions that lay inside the scope of your project and are roughly in between very specific or individual information and very general or conceptual information that you heard from them.">]({{ site.baseurl }}/img/visualization-insights-01.svg)
-
-In design research, the word “insights” means patterns, recurring ideas, or gaps you and your team find during the process of looking at your research as a whole. The synthesis process serves as the data parse or analysis of your work. You are no longer looking at this work as the words from individual interviews, but instead as a group or whole. This is where you move from a collection of facts to an understanding of those facts.
-
-This means sitting down as a group, reading all the notes from all the interviews your team has conducted, and discussing, arguing over, and organizing the contents of those notes and interviews into the patterns and recurring ideas that have emerged as well as identifying gaps in the system or your understanding of the system. This data parse process is the first step toward the final phases of your project: Deliverables (which you and your Leadership decided on at the beginning of the project), Immediate Actionables (items identified in the research parse as not needing more research), and Recommendations (what the research has identified as meriting further study).
-
-***
-
-## Checklist
-
-Use this checklist as you move through the Insights portion of Synthesis.
-
-- Review the HCD Discovery Concept Guide's section on <a href= "https://the-lab-at-opm.github.io/HCD-Design-Concept-Guide/insights/">Finding Insights.</a>
-- Book a private conference room with a closing door and exterior windows.
-- Gather your supplies: sticky notes, blank computer or notebook paper, markers, painters’ tape (aka paper tape or blue tape. Masking tape also works), and camera, either on-phone or separate.
-- Each team member should prepare for this Synthesis session by reading all the notes from the interviews they did not attend.
-- Each team member should print multiple copies of all the notes you took for each interview for which you acted as Notetaker.
-
-***
 
 ## Framework - Reading, Questioning, Jotting Notes
 

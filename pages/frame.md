@@ -25,7 +25,7 @@ This section will help you step through constructing a frame that is wide enough
 
 ## Checklist
 
-Use this checklist as you move throught this section to esure you're set up for success in the Framing phase.
+Use this checklist as you move through this section to esure you're set up for success in the Framing phase.
 
 - Read the <a href= "https://the-lab-at-opm.github.io/HCD-Discovery-Concept-Guide/frame/">Brief & Frame</a> section of the HCD Discovery Stage Concept Guide
 
